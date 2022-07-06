@@ -4,9 +4,9 @@ O aplicativo Gummi é um editor Latex para o sistema Linux. Diferentemente dos e
 
 ## Instalação via linha de comando | 32bits e 64bits
 
-Para instalar é preciso usar um terminal como root (administrador) e executar
+Para instalar é preciso usar um terminal como root (administrador) e executar o comando:
 ```sh
-apt install
+apt install gummi
 ```
 
 ## Utilização básica
