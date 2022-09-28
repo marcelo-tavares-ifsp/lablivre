@@ -1,4 +1,6 @@
-# Editor de texto Gummi ![logotipo gummi](img/gummi.png)
+# Editor de texto Gummi
+
+ ![logotipo gummi](img/gummi.png)
 
 O aplicativo Gummi é um editor Latex para o sistema Linux. Diferentemente dos editores de texto visuais, O Gummi, através do Latex, permite criar documentos estruturados editados utilizando comandos, tornando o processo mais eficiente e prático. Esse software tem diversas funcionalidades, as quais são voltadas para a montagem de documentos, como por exemplo permitir criar capas, adicionar índices, notas de rodapé, referências cruzadas, configurar indentações e muito mais: ele é muito útil para se realizar formatações limpas e bem organizadas em documentos textuais.
 
