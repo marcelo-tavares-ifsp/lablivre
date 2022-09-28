@@ -1,5 +1,7 @@
 
-# Editor de texto TexStudio
+# Editor de texto TexStudio 
+
+![logotipo texstudio](img/texstudio.png)
 
 O aplicativo TexStudio é um editor de Latex para o sistema Linux, porém ele é um software mais avançado, com mais funções. O TexStudio, utilizando do Latex, permite criar documentos estruturados editados por meio de comandos, escritos num arquivo código-fonte. Esse software tem funções voltadas para a montagem de documentos, como por exemplo permitir criar capas, adicionar índices, notas de rodapé, referências cruzadas, configurar indentações e muito mais: ele é muito útil para se realizar formatações limpas e bem organizadas em documentos textuais.
 
