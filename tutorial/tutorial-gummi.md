@@ -1,4 +1,4 @@
-# Editor de texto Gummi
+# Editor de texto Gummi ![logotipo gummi](img/gummi.png)
 
 O aplicativo Gummi é um editor Latex para o sistema Linux. Diferentemente dos editores de texto visuais, O Gummi, através do Latex, permite criar documentos estruturados editados utilizando comandos, tornando o processo mais eficiente e prático. Esse software tem diversas funcionalidades, as quais são voltadas para a montagem de documentos, como por exemplo permitir criar capas, adicionar índices, notas de rodapé, referências cruzadas, configurar indentações e muito mais: ele é muito útil para se realizar formatações limpas e bem organizadas em documentos textuais.
 
@@ -17,5 +17,3 @@ Mais abaixo na tela, temos uma região dividida em duas partes: uma primeira na 
 No Latex temos vários comandos que servem para se fazer a formatação e estruturação do texto. Aqui se segue um tutorial de como fazer uma estrutura básica de um texto do tipo artigo, como exemplo, utilizando o Latex no software Gummi:
 
 O comando \documentclass{article} cria um documento do tipo artigo, ou seja, com as características de um documento do tipo artigo. Os comandos \title{título}, \author{nome do autor} e \date{} permitem definir título, autor e a data de criação do documento, respectivamente, - eles fazem parte do preâmbulo do documento. A partir de \begin {document} tem-se o início do documento, onde podemos o desenvolver, e após desenvolvido fechá-lo com o comando \end {document}. Outros comandos importantes para o documento durante o seu desenvolvimento são o \section {nome da seção} que cria uma seção dentro do documento, o \emph{texto a ser enfatizado} que enfatiza palavras dentro do texto, o \footnote{texto} que adiciona uma nota de rodapé no arquivo, \item[nome do item] cria um tópico dentro do texto e \textbf{texto} coloca o texto desejado em negrito.
-
-![logotipo gummi](img/gummi.png)
