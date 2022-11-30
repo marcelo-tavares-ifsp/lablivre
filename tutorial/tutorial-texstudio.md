@@ -95,7 +95,7 @@ O comando \documentclass{article} cria um documento do tipo artigo, ou seja, com
 </div>
 
 <p align=center>
-O resultado final do texto já compilado num arquivo .doc fica assim:
+O resultado final do texto já compilado num arquivo .pdf fica assim:
 </p>
 <div align=center>
  
