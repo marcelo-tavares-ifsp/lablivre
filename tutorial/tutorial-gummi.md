@@ -1,7 +1,7 @@
 <h1 align=center> Editor de texto Gummi </h1>
 <div align=center>
  
- ![logotipo gummi](img/gummi.png)
+ ![logotipo gummi](img/tutorial-gummi-0.png)
 
 </div>
 
