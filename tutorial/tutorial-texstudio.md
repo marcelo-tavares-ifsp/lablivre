@@ -10,7 +10,7 @@ O aplicativo TexStudio é um editor de Latex para o sistema Linux, porém ele é
 </p>
 <div align=center>
  
- <img src="img/tutorial-texstudio-1.png" alt="menu" width=800px/>
+ <img src="img/tutorial-texstudio-1.png" alt="tela do software" width=800px/>
 
 </div>
 
@@ -40,7 +40,7 @@ A maioria dessas opções tem atalhos visuais logo abaixo dessa barra de menu (a
 </p>
 <div align=center>
  
- ![menu](img/tutorial-texstudio-3.png)
+ ![barra-de-ferramentas](img/tutorial-texstudio-3.png)
 
 </div>
 
@@ -49,7 +49,7 @@ A maioria dessas opções tem atalhos visuais logo abaixo dessa barra de menu (a
 </p>
 <div align=center>
  
- ![menu](img/tutorial-texstudio-4.png)
+ ![tela-codigo-fonte](img/tutorial-texstudio-4.png)
 
 
 </div>
@@ -59,7 +59,7 @@ Ao lado dela, tem-se uma barra lateral com as estruturas definidas ao longo do c
 </p>
 <div align=center>
  
- ![menu](img/tutorial-texstudio-5.png)
+ ![barra-lateral](img/tutorial-texstudio-5.png)
 
 
 </div>
@@ -70,25 +70,27 @@ Abaixo da maior tela temos um espaço destinado a compilação do arquivo: nela 
 </p>
 <div align=center>
  
- ![menu](img/tutorial-texstudio-6.png)
+ ![feedback-compilacao](img/tutorial-texstudio-6.png)
+
+</div>
+
+<div align=center>
+ 
+ ![feedback-compilacao](img/tutorial-texstudio-7.png)
 
 </div>
 
 <p align=justify>
 O processo de estruturação do documento e os comandos, são praticamente os mesmos para a maioria dos editores de Latex. Sendo assim,  aqui se segue um tutorial de como fazer uma estrutura básica de um texto do tipo artigo, como exemplo, utilizando o Latex no software TexStudio:
 </p>
-<div align=center>
- 
- ![menu](img/tutorial-texstudio-7.png)
 
-</div>
 
 <p align=justify>
 O comando \documentclass{article} cria um documento do tipo artigo, ou seja, com as características de um documento do tipo artigo. Os comandos \title{título}, \author{nome do autor} e \date{} permitem definir título, autor e a data de criação do documento, respectivamente, - eles fazem parte do preâmbulo do documento. A partir de \begin {document} tem-se o início do documento, onde podemos o desenvolver, e após desenvolvido fechá-lo com o comando \end {document}. Outros comandos importantes para o documento durante o seu desenvolvimento são o \section {nome da seção} que cria uma seção dentro do documento, o \emph{texto a ser enfatizado} que enfatiza palavras dentro do texto, o \footnote{texto} que adiciona uma nota de rodapé no arquivo, \item[nome do item] cria um tópico dentro do texto e \textbf{texto} coloca o texto desejado em negrito.
 </p>
 <div align=center>
  
- ![menu](img/tutorial-texstudio-8.png)
+ ![codigo-fonte](img/tutorial-texstudio-8.png)
 
 </div>
 
@@ -97,6 +99,6 @@ O resultado final do texto já compilado num arquivo .doc fica assim:
 </p>
 <div align=center>
  
- ![menu](img/imagem.png)
+ ![menu](img/tutorial-texstudio-9.png)
 
 </div>
