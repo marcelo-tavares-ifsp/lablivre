@@ -56,7 +56,7 @@ e na segunda tela é possível ter uma previsão de como o texto ficará após s
 
 </div>
 
-<h3>2. Comandos e tutorial</h3>
+<h3>2. Comandos e exemplificação</h3>
 
 <p align=justify>
 No Latex temos vários comandos que servem para se fazer a formatação e estruturação do texto. Aqui se segue um tutorial de como fazer uma estrutura básica de um texto do tipo artigo, como exemplo, utilizando o Latex no software Gummi:
