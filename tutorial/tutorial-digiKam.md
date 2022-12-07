@@ -15,7 +15,7 @@
 ```
     
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-digiKam-01.png">
+    <img alt="imagem terminal" src="img/tutorial-digiKam-01.png">
 </div>
 
 <ul align ="justify">
@@ -23,7 +23,7 @@
 </ul>
     
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-digiKam-02.png">
+    <img alt="imagem terminal" src="img/tutorial-digiKam-02.png">
 </div>
     
 <ul align ="justify">
@@ -31,7 +31,7 @@
 </ul>
     
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-digiKam-03.png">
+    <img alt="imagem terminal" src="img/tutorial-digiKam-03.png">
 </div>
     
 <ul align ="justify">
@@ -43,7 +43,7 @@
 ```
 
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-digiKam-04.png">
+    <img alt="imagem terminal" src="img/tutorial-digiKam-04.png">
 </div>
 
 <ul align ="justify">
@@ -51,7 +51,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-digiKam-05.png">
+    <img alt="imagem terminal" src="img/tutorial-digiKam-05.png">
 </div>
     
 <br>
@@ -63,7 +63,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem instalação" src="img/tutorial-digiKam-06.png">
+    <img alt="imagem instalação" src="img/tutorial-digiKam-06.png">
 </div>
     
 <ul align ="justify">
@@ -71,7 +71,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem instalação" src="img/tutorial-digiKam-07.png">
+    <img alt="imagem instalação" src="img/tutorial-digiKam-07.png">
 </div>
     
 <ul align ="justify">    
@@ -79,7 +79,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem instalação" src="img/tutorial-digiKam-08.png">
+    <img alt="imagem instalação" src="img/tutorial-digiKam-08.png">
 </div>
 
 <ul align ="justify">
@@ -87,7 +87,7 @@
 </ul>
     
 <div align="center">
-    <img align="center" alt="imagem instalação" src="img/tutorial-digiKam-09.png">
+    <img alt="imagem instalação" src="img/tutorial-digiKam-09.png">
 </div>
 
 <ul align ="justify">
@@ -95,7 +95,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem instalação" src="img/tutorial-digiKam-10.png">
+    <img alt="imagem instalação" src="img/tutorial-digiKam-10.png">
 </div>
 
 <ul align ="justify">
@@ -103,7 +103,7 @@
 </ul>
  
 <div align="center">
-    <img align="center" alt="imagem instalação" src="img/tutorial-digiKam-11.png">
+    <img alt="imagem instalação" src="img/tutorial-digiKam-11.png">
 </div>
 
 <ul align ="justify">
@@ -111,7 +111,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem instalação" src="img/tutorial-digiKam-12.png">
+    <img alt="imagem instalação" src="img/tutorial-digiKam-12.png">
 </div>
 
 <ul align ="justify">
@@ -119,7 +119,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem instalação" src="img/tutorial-digiKam-13.png">
+    <img alt="imagem instalação" src="img/tutorial-digiKam-13.png">
 </div>
 
 <ul align ="justify">
@@ -137,7 +137,7 @@
 </ul>
     
 <div align="center">
-    <img align="center" alt="imagem instalação" src="img/tutorial-digiKam-14.png">
+    <img alt="imagem instalação" src="img/tutorial-digiKam-14.png">
 </div>
 
 <ul align ="justify">    
@@ -145,7 +145,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem instalação" src="img/tutorial-digiKam-15.png">
+    <img alt="imagem instalação" src="img/tutorial-digiKam-15.png">
 </div>
 
 <ul align ="justify">
@@ -153,7 +153,7 @@
 </ul>
     
 <div align="center">
-    <img align="center" alt="imagem instalação" src="img/tutorial-digiKam-16.png">
+    <img alt="imagem instalação" src="img/tutorial-digiKam-16.png">
 </div>
 
 <ul align ="justify">
@@ -161,7 +161,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem instalação" src="img/tutorial-digiKam-17.png">
+    <img alt="imagem instalação" src="img/tutorial-digiKam-17.png">
 </div>
 
 <ul align ="justify">
@@ -169,7 +169,7 @@
 </ul>
     
 <div align="center">
-    <img align="center" alt="imagem instalação" src="img/tutorial-digiKam-18.png">
+    <img alt="imagem instalação" src="img/tutorial-digiKam-18.png">
 </div>
     
 <br>
@@ -183,7 +183,7 @@
 </ul>
     
 <div align="center">
-    <img align="center" alt="imagem utilização" src="img/tutorial-digiKam-19.png">
+    <img alt="imagem utilização" src="img/tutorial-digiKam-19.png">
 </div>
 
 <ul align ="justify">
@@ -191,7 +191,7 @@
 </ul>
     
 <div align="center">
-    <img align="center" alt="imagem utilização" src="img/tutorial-digiKam-20.png">
+    <img alt="imagem utilização" src="img/tutorial-digiKam-20.png">
 </div>
 
 <p align ="justify">Como será a  primeira vez em que o programa será executado, é preciso fazer algumas configurações antes de usá-lo.</p>
@@ -201,7 +201,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem utilização" src="img/tutorial-digiKam-21.png">
+    <img alt="imagem utilização" src="img/tutorial-digiKam-21.png">
 </div>
 
 <p align ="justify">Se tratando de uma utilização básica, haverá algumas configurações em que optaremos por seguir as recomendações do aplicativo. </p>
@@ -211,7 +211,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem utilização" src="img/tutorial-digiKam-22.png">
+    <img alt="imagem utilização" src="img/tutorial-digiKam-22.png">
 </div>
 
 <ul align ="justify">
@@ -219,7 +219,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem utilização" src="img/tutorial-digiKam-23.png">
+    <img alt="imagem utilização" src="img/tutorial-digiKam-23.png">
 </div>
 
 <ul align ="justify">
@@ -227,7 +227,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem utilização" src="img/tutorial-digiKam-24.png">
+    <img alt="imagem utilização" src="img/tutorial-digiKam-24.png">
 </div>
 
 <ul align ="justify">
@@ -235,7 +235,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem utilização" src="img/tutorial-digiKam-25.png">
+    <img alt="imagem utilização" src="img/tutorial-digiKam-25.png">
 </div>
 
 <ul align ="justify">
@@ -243,7 +243,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem utilização" src="img/tutorial-digiKam-26.png">
+    <img alt="imagem utilização" src="img/tutorial-digiKam-26.png">
 </div>
 
 <ul align ="justify">
@@ -251,7 +251,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem utilização" src="img/tutorial-digiKam-27.png">
+    <img alt="imagem utilização" src="img/tutorial-digiKam-27.png">
 </div>
 
 <ul align ="justify">
@@ -259,7 +259,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem utilização" src="img/tutorial-digiKam-28.png">
+    <img alt="imagem utilização" src="img/tutorial-digiKam-28.png">
 </div>
 
 <ul align ="justify">
@@ -267,5 +267,5 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem utilização" src="img/tutorial-digiKam-29.png">
+    <img alt="imagem utilização" src="img/tutorial-digiKam-29.png">
 </div>
