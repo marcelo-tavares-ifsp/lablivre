@@ -15,7 +15,7 @@
 ```
     
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-shotwell-01.png">
+    <img alt="imagem terminal" src="img/tutorial-shotwell-01.png">
 </div>
 
 <ul align ="justify">
@@ -23,7 +23,7 @@
 </ul>
     
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-shotwell-02.png">
+    <img alt="imagem terminal" src="img/tutorial-shotwell-02.png">
 </div>
     
 <ul align ="justify">
@@ -31,7 +31,7 @@
 </ul>
     
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-shotwell-03.png">
+    <img alt="imagem terminal" src="img/tutorial-shotwell-03.png">
 </div>
     
 <ul align ="justify">
@@ -43,7 +43,7 @@
 ```
 
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-shotwell-04.png">
+    <img alt="imagem terminal" src="img/tutorial-shotwell-04.png">
 </div>
 
 <ul align ="justify">
@@ -51,7 +51,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-shotwell-05.png">
+    <img alt="imagem terminal" src="img/tutorial-shotwell-05.png">
 </div>
     
 <br>
@@ -63,7 +63,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-shotwell-06.png">
+    <img alt="imagem terminal" src="img/tutorial-shotwell-06.png">
 </div>
     
 <ul align ="justify">
@@ -71,7 +71,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-shotwell-07.png">
+    <img alt="imagem terminal" src="img/tutorial-shotwell-07.png">
 </div>
     
 <ul align ="justify">    
@@ -79,7 +79,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-shotwell-08.png">
+    <img alt="imagem terminal" src="img/tutorial-shotwell-08.png">
 </div>
 
 <ul align ="justify">
@@ -87,7 +87,7 @@
 </ul>
     
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-shotwell-09.png">
+    <img alt="imagem terminal" src="img/tutorial-shotwell-09.png">
 </div>
 
 <ul align ="justify">
@@ -95,7 +95,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-shotwell-10.png">
+    <img alt="imagem terminal" src="img/tutorial-shotwell-10.png">
 </div>
 
 <ul align ="justify">
@@ -103,7 +103,7 @@
 </ul>
  
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-shotwell-11.png">
+    <img alt="imagem terminal" src="img/tutorial-shotwell-11.png">
 </div>
 
 <ul align ="justify">
@@ -111,7 +111,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-shotwell-12.png">
+    <img alt="imagem terminal" src="img/tutorial-shotwell-12.png">
 </div>
 
 <ul align ="justify">
@@ -129,7 +129,7 @@
 </ul>
     
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-shotwell-13.png">
+    <img alt="imagem terminal" src="img/tutorial-shotwell-13.png">
 </div>
 
 <ul align ="justify">    
@@ -137,7 +137,7 @@
 </ul>
 
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-shotwell-14.png">
+    <img alt="imagem terminal" src="img/tutorial-shotwell-14.png">
 </div>
 
 <ul align ="justify">
@@ -153,7 +153,7 @@
 </ul>
     
 <div align="center">
-    <img align="center" alt="imagem terminal" src="img/tutorial-shotwell-16.png">
+    <img alt="imagem terminal" src="img/tutorial-shotwell-16.png">
 </div>
     
 <br>
