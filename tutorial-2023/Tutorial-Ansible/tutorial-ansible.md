@@ -14,9 +14,9 @@ Após isso crie um arquivo .txt com o nome que você preferir neste caso será c
 
 ----
 
-## Configuração dos alvos do processo
+## Configuração dos alvos do processo (inventário)
 
-Para a criação do arquivo .txt coloque:
+Cada arquivo que contém as máquinas onde o script (playbook) será aumtomatizado, ou seja, executado é chamado de inventário, não existe limites em relaço a quantas máquinas podem compor um inventário. Para a criação do arquivo .txt que será utilizado como inventário para a execução coloque inicialmente no terminal:
 
 nano hosts
 
@@ -50,7 +50,23 @@ Observe que é necessário e possível a criação de mais de um conjunto desses
 
 ----
 
-## Ativando o Veyon-master
+## Comandos do Ansible
+
+Para utilizar o ansible é necessário utilizar apropriadamente sua sintaxe, cada .yaml é chamado de playbook, o mesmo tem que ser invocado dessa maneira, ou seja ansible-playbook, logo abaixo segue um exemplo de utilização deste comando:
+
+ansible-playbook -i lab14 playbook.yaml 
+
+ou 
+
+ansible-playbook -i lab14 .yaml 
+
+---
+
+## Utilizando o Ansible para para gerenciamento o veyon-master
+
+
+
+### Ativando o Veyon-master
 
 ~~~ Este arquivo é em .yaml
 - name: configuração do veyon
@@ -65,7 +81,7 @@ Observe que é necessário e possível a criação de mais de um conjunto desses
 
 ----
 
-## Desativando o Veyon-master
+### Desativando o Veyon-master
 
 ~~~Este código é em .yaml
 - name: configuração do veyon
@@ -79,27 +95,3 @@ Observe que é necessário e possível a criação de mais de um conjunto desses
 ~~~
 
 ----
-
-## Comandos do Ansible
-
-Para utilizar o ansible é necessário utilizar apropriadamente sua sintaxe, cada .yaml é chamado de playbook, o mesmo tem que ser invocado dessa maneira, ou seja ansible-playbook, logo abaixo segue um exemplo de utilização deste comando:
-
-ansible-playbook -i lab14 ativando-veyon.yaml 
-
-ou 
-
-ansible-playbook -i lab14 desativando-veyon.yaml 
-
----
-
-## Instalação via linha de comando | 32bits e 64bits | 
-Para instalar é preciso usar um terminal como root (administrador), então, abra o terminal e com a VM limpa, entre como root através do comando: 
-```sh
-    su -
-```
----
-
-## Utilização básica
-
-----
-
