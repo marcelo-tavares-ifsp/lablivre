@@ -50,6 +50,7 @@ Observe que é necessário e possível a criação de mais de um conjunto desses
 
 ## Ativando o Veyon-master
 
+~~~ Este arquivo é em .yaml
 - name: configuração do veyon
   hosts: lab14
   become: yes
@@ -58,6 +59,7 @@ Observe que é necessário e possível a criação de mais de um conjunto desses
     ansible.builtin.shell: |
       veyon-cli config set Service/MultiSession true
       systemctl restart veyon.service
+~~~
 
 ----
 
