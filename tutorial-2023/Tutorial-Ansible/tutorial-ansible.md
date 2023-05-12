@@ -1,7 +1,8 @@
 # Ansible 
 Tutorial do Ansible
 
-#Como utilizar
+-- 
+## Como utilizar
 
 Para utilizar o Ansible é necessário estar na biblioteca /etc/Ansible/
 
@@ -10,7 +11,9 @@ cd /etc/Ansible
 
 Após isso crie um arquivo .txt com o nome que você preferir neste caso será chamado de hosts
 
-##Configuração dos alvos do processo
+--
+
+## Configuração dos alvos do processo
 
 Para a criação do arquivo .txt coloque:
 
@@ -42,8 +45,9 @@ Em seguida para que o código .yaml funcione é preciso passar como parâmetro u
 
 Observe que é necessário e possível a criação de mais de um conjunto desses ips, ou seja, pode se criar diversas divisões para que na linha de comando do Ansible, seja possível a escolha de determinados conjuntos de ips.
 
+--
 
-#Ativando o Veyon-master
+## Ativando o Veyon-master
 
 - name: configuração do veyon
   hosts: lab14
@@ -54,7 +58,9 @@ Observe que é necessário e possível a criação de mais de um conjunto desses
       veyon-cli config set Service/MultiSession true
       systemctl restart veyon.service
 
-#Desativando o Veyon-master
+--
+
+## Desativando o Veyon-master
 
 - name: configuração do veyon
   hosts: lab14
@@ -65,8 +71,9 @@ Observe que é necessário e possível a criação de mais de um conjunto desses
       veyon-cli config set Service/MultiSession false
       systemctl restart veyon.service
 
+--
 
-#Comandos do Ansible
+## Comandos do Ansible
 
 Para utilizar o ansible é necessário utilizar apropriadamente sua sintaxe, cada .yaml é chamado de playbook, o mesmo tem que ser invocado dessa maneira, ou seja ansible-playbook, logo abaixo segue um exemplo de utilização deste comando:
 
@@ -83,15 +90,9 @@ Para instalar é preciso usar um terminal como root (administrador), então, abr
 ```sh
     su -
 ```
-
-
-
 ---
 
 ## Utilização básica
-
-
-
 
 ----
 
