@@ -1,7 +1,8 @@
 # Ansible 
 Tutorial do Ansible
 
--- 
+----
+
 ## Como utilizar
 
 Para utilizar o Ansible é necessário estar na biblioteca /etc/Ansible/
@@ -11,7 +12,7 @@ cd /etc/Ansible
 
 Após isso crie um arquivo .txt com o nome que você preferir neste caso será chamado de hosts
 
---
+----
 
 ## Configuração dos alvos do processo
 
@@ -45,7 +46,7 @@ Em seguida para que o código .yaml funcione é preciso passar como parâmetro u
 
 Observe que é necessário e possível a criação de mais de um conjunto desses ips, ou seja, pode se criar diversas divisões para que na linha de comando do Ansible, seja possível a escolha de determinados conjuntos de ips.
 
---
+----
 
 ## Ativando o Veyon-master
 
@@ -58,7 +59,7 @@ Observe que é necessário e possível a criação de mais de um conjunto desses
       veyon-cli config set Service/MultiSession true
       systemctl restart veyon.service
 
---
+----
 
 ## Desativando o Veyon-master
 
@@ -71,7 +72,7 @@ Observe que é necessário e possível a criação de mais de um conjunto desses
       veyon-cli config set Service/MultiSession false
       systemctl restart veyon.service
 
---
+----
 
 ## Comandos do Ansible
 
