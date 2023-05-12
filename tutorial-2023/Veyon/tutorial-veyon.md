@@ -1,7 +1,7 @@
 <h1 align=center> Veyon  </h1>
 <div align=center>
  
-![logotipo veyon](img/tutorial-veyon-0.png)
+![logotipo veyon](../img/tutorial-veyon-0.png)
 
 </div>
 <p align=justify>
@@ -10,7 +10,7 @@ Veyon é um software gratuito e de código aberto, com ele é possível monitora
 
 <div align=center>
 
-<img src="img/tutorial-veyon-1.jpg" alt="tela do software" width=800px/>
+<img src="../img/tutorial-veyon-1.jpg" alt="tela do software" width=800px/>
 
 </div>
 
