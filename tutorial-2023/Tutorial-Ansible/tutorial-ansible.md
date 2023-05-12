@@ -7,8 +7,10 @@ Tutorial do Ansible
 
 Para utilizar o Ansible é necessário estar na biblioteca /etc/Ansible/
 
+~~~
 sudo su
 cd /etc/Ansible
+~~~~
 
 Após isso crie um arquivo .txt com o nome que você preferir neste caso será chamado de hosts
 
@@ -18,7 +20,9 @@ Após isso crie um arquivo .txt com o nome que você preferir neste caso será c
 
 Cada arquivo que contém as máquinas onde o script (playbook) será aumtomatizado, ou seja, executado é chamado de inventário, não existe limites em relaço a quantas máquinas podem compor um inventário. Para a criação do arquivo .txt que será utilizado como inventário para a execução coloque inicialmente no terminal:
 
+~~~
 nano hosts
+~~~
 
 Em seguida para que o código .yaml funcione é preciso passar como parâmetro um arquivo Hosts, que contenha o conjunto de ip das máquinas, que deverá ser escrito desta maneira:
 
@@ -60,7 +64,7 @@ ou
 
 ansible-playbook -i lab14 .yaml 
 
----
+----
 
 ## Utilizando o Ansible para para gerenciamento o veyon-master
 
@@ -98,7 +102,23 @@ ansible-playbook -i lab14 .yaml
 
 A utilização de logs é essencial uma vez que o resultado do script pode ter sido executado de maneira incorreta, ou seja, tenha passado para as máquinas mas não ter tido o resultado esperado, ou até mesmo nem sequer rodado no "alvo"; portanto o log é uma maneira eficaz de manter o contole sobre a distribuiço dos scripts, e sobre o resultado que estes trazem, ainda mais se utilizado em um ambiente com diversas máquinas.
 
+----
+
 ## Utilizando o Ansible para mandar emails
+
+O Ansible pode vir com uma configuraço que não possui a biblioteca necessária para que o envio de emails seja "efetivado", ou seja, pode no vir configurado da maneira ideal, o que tem que se fazer é instalar a biblioteca community.general.mail 6.5.0.
+
+Caso a biblioteca não tenha sido instalada:
+~~~
+ansible-galaxy collection install community.general
+~~~
+
+ou 
+
+Caso apenas seja necessário atualiza-la:
+ansible-galaxy collection install community.general --update
+
+----
 
 ### Utilizando o Ansible para mandar emails de logs
 
