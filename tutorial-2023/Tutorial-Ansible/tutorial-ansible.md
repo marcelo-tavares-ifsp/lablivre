@@ -102,6 +102,22 @@ ansible-playbook -i lab14 .yaml
 
 A utilização de logs é essencial uma vez que o resultado do script pode ter sido executado de maneira incorreta, ou seja, tenha passado para as máquinas mas não ter tido o resultado esperado, ou até mesmo nem sequer rodado no "alvo"; portanto o log é uma maneira eficaz de manter o contole sobre a distribuiço dos scripts, e sobre o resultado que estes trazem, ainda mais se utilizado em um ambiente com diversas máquinas.
 
+Gerar um ficheiro ansible.cfg de exemplo
+
+É possível gerar um ficheiro ansible.cfg de exemplo totalmente comentado, por exemplo:
+
+~~~
+$ ansible-config init --disabled > ansible.cfg
+~~~
+
+Também pode ter um ficheiro mais completo que inclua os plugins existentes:
+
+~~~
+$ ansible-config init --disabled -t all > ansible.cfg
+~~~
+
+Pode utilizá-los como pontos de partida para criar o seu próprio arquivo ansible.cfg. 
+
 ----
 
 ## Utilizando o Ansible para mandar emails
@@ -116,7 +132,9 @@ ansible-galaxy collection install community.general
 ou 
 
 Caso apenas seja necessário atualiza-la:
+~~~
 ansible-galaxy collection install community.general --update
+~~~
 
 ----
 
