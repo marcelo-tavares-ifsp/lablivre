@@ -64,8 +64,6 @@ ansible-playbook -i lab14 .yaml
 
 ## Utilizando o Ansible para para gerenciamento o veyon-master
 
-
-
 ### Ativando o Veyon-master
 
 ~~~ Este arquivo é em .yaml
@@ -93,5 +91,17 @@ ansible-playbook -i lab14 .yaml
       veyon-cli config set Service/MultiSession false
       systemctl restart veyon.service
 ~~~
+
+----
+
+## Criando logs no Ansible
+
+A utilização de logs é essencial uma vez que o resultado do script pode ter sido executado de maneira incorreta, ou seja, tenha passado para as máquinas mas não ter tido o resultado esperado, ou até mesmo nem sequer rodado no "alvo"; portanto o log é uma maneira eficaz de manter o contole sobre a distribuiço dos scripts, e sobre o resultado que estes trazem, ainda mais se utilizado em um ambiente com diversas máquinas.
+
+## Utilizando o Ansible para mandar emails
+
+### Utilizando o Ansible para mandar emails de logs
+
+
 
 ----
