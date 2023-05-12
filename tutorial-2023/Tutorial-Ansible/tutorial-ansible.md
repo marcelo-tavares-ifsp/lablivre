@@ -138,8 +138,44 @@ ansible-galaxy collection install community.general --update
 
 ----
 
+### Mandando emails com o Ansible
+
+~~~
+-name:Enviando arquivos de email
+  tasks:
+  - name: Sending an e-mail using Gmail SMTP servers
+    community.general.mail:
+      host: smtp.gmail.com
+      port: 587
+      username: username@gmail.com
+      password: mysecret
+      to: John Smith <john.smith@example.com>
+      subject: Ansible-report
+      body: System {{ ansible_hostname }} has been successfully provisioned.
+    delegate_to: localhost
+~~~
+
 ### Utilizando o Ansible para mandar emails de logs
 
-
+~~~
+-name:Enviando arquivos de email
+  tasks:
+  - name: Send e-mail to a bunch of users, attaching files
+    community.general.mail:
+      host: 127.0.0.1
+      port: 2025
+      subject: Ansible-report
+      body: Hello, this is an e-mail. I hope you like it ;-)
+      from: teste@gmail.com
+      to:
+      - c.azevedo@aluno.ifsp.edu.br
+      - gustavo.delbon@aluno.ifso.edu.br
+      cc: Charlie Root <root@localhost>
+      attach:
+      - /etc/group
+      - /tmp/log.json
+      charset: us-ascii
+    delegate_to: localhost
+~~~
 
 ----
