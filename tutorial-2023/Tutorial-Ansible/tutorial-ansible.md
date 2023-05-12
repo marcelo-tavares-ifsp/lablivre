@@ -22,6 +22,7 @@ nano hosts
 
 Em seguida para que o código .yaml funcione é preciso passar como parâmetro um arquivo Hosts, que contenha o conjunto de ip das máquinas, que deverá ser escrito desta maneira:
 
+~~~
 [lab14]
 10.100.14.30 
 10.100.14.33
@@ -43,6 +44,7 @@ Em seguida para que o código .yaml funcione é preciso passar como parâmetro u
 10.100.14.80	
 10.100.14.90	
 10.100.14.59	
+~~~
 
 Observe que é necessário e possível a criação de mais de um conjunto desses ips, ou seja, pode se criar diversas divisões para que na linha de comando do Ansible, seja possível a escolha de determinados conjuntos de ips.
 
@@ -65,6 +67,7 @@ Observe que é necessário e possível a criação de mais de um conjunto desses
 
 ## Desativando o Veyon-master
 
+~~~Este código é em .yaml
 - name: configuração do veyon
   hosts: lab14
   become: yes
@@ -73,6 +76,7 @@ Observe que é necessário e possível a criação de mais de um conjunto desses
     ansible.builtin.shell: |
       veyon-cli config set Service/MultiSession false
       systemctl restart veyon.service
+~~~
 
 ----
 
