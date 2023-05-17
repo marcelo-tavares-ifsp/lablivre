@@ -66,7 +66,7 @@ ansible-playbook -i lab14 .yaml
 
 ----
 
-## Utilizando o Ansible para para gerenciamento o veyon-master
+## Utilizando o Ansible para gerenciamento do veyon-master
 
 ### Ativando o Veyon-master
 
